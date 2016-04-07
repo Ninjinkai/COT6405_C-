@@ -1,0 +1,1 @@
+LISS.o: ../LISS.cpp
